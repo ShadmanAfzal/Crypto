@@ -1,6 +1,6 @@
-# cryptocoin
+# Cryptocoin
 
-A new Flutter project.
+An App for getting realtime price of cryptocurrency.
 
 ## Getting Started
 
